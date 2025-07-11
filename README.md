@@ -14,4 +14,4 @@ Uh.
 Well.
 
 If you're already into Rust, just do a cargo build to set it up and the program will guide you
-quite simple really, it'll ask for a temperature and if you want to convert from celsius to fahrenheit or the inverse, then some stuff may happen
+quite simple really, it'll ask for a temperature and if you want to convert from celsius to fahrenheit or the inverse, then some stuff may happen. I try to make stuff humorously at some point so it's surely not that serious too. 
